@@ -1,4 +1,4 @@
-# SDLC-Track-Logistics-System
+# "Team Project – Developed collaboratively with project team members (names omitted for privacy)."
 SDLC Planning Analysis, and Design report for a Track Logistics System
 # SDLC Planning, Analysis, and Design: Track Logistics System
 
